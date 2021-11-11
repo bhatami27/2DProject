@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{0234739E-46F0-BC40-E736-2B55143FFF1E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/EnemyMovement.cs">
+    <Files>
+      <File FileName="Assets/Script/Enemy5Movement.cs" Line="19" Column="46" />
+      <File FileName="Assets/Script/Enemy4Movement.cs" />
+      <File FileName="Assets/Script/Enemy3Movement.cs" />
+      <File FileName="Assets/Script/Enemy2Movement.cs" />
+      <File FileName="Assets/Script/ScoreScript.cs" Line="18" Column="35" />
+      <File FileName="../RollaBallRepo/Roll-a-Ball-/Assets/Script/PlayerController.cs" Line="122" Column="30" />
+      <File FileName="Assets/Script/PlayerMovement.cs" Line="71" Column="29" />
+      <File FileName="Assets/Script/StartGame.cs" Line="9" Column="33" />
+      <File FileName="Assets/Script/EnemyMovement.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2D Project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True">
+                <Node name="EnemyMovement.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="94a4413f-e876-4996-b5d5-06ee494251a1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,1292 @@
+fileFormatVersion: 2
+guid: b841a05d4d8db4ee48a0377d4091afab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1400421442518429814
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_0
+  - first:
+      213: -1516683792581388040
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_1
+  - first:
+      213: 8699427017886677879
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_2
+  - first:
+      213: 7492425860664517258
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_3
+  - first:
+      213: 8400502271669031453
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_4
+  - first:
+      213: -6900244249367491798
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_5
+  - first:
+      213: -3401229081931372529
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_6
+  - first:
+      213: 1700773022842271183
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_7
+  - first:
+      213: -633740541467194061
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_8
+  - first:
+      213: -6308734365106307426
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_9
+  - first:
+      213: -6492431113340918107
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_10
+  - first:
+      213: 866474188916431136
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_11
+  - first:
+      213: 2353299729414797376
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_12
+  - first:
+      213: 7285940139609889459
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_13
+  - first:
+      213: -6001295721650936426
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_14
+  - first:
+      213: 5557082392133365648
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_15
+  - first:
+      213: 3969206741983505439
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_16
+  - first:
+      213: 1493287875420845484
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_17
+  - first:
+      213: -655837718702389285
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_18
+  - first:
+      213: 4279528200652501777
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_19
+  - first:
+      213: 535776413264285806
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_20
+  - first:
+      213: -8738069936888992076
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_21
+  - first:
+      213: -3736663795955744594
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_22
+  - first:
+      213: 6882825191265387234
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_23
+  - first:
+      213: -590307465886284422
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_24
+  - first:
+      213: -330737980118629923
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_25
+  - first:
+      213: -6953986968689153133
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_26
+  - first:
+      213: 870240065656102056
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_27
+  - first:
+      213: -1767821639274104237
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_28
+  - first:
+      213: 4959891565647421344
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_29
+  - first:
+      213: 6080298067090313111
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_30
+  - first:
+      213: 7575241895966336354
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_31
+  - first:
+      213: 6769679185393841079
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_32
+  - first:
+      213: -5619292249263916606
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_33
+  - first:
+      213: 6552794724570119710
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_34
+  - first:
+      213: 487174013100886080
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_35
+  - first:
+      213: 5237768768186565198
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_36
+  - first:
+      213: -6443377871292150512
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_37
+  - first:
+      213: 7421672995043280844
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_38
+  - first:
+      213: 7049892593577701282
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_39
+  - first:
+      213: 1956650904064767559
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_40
+  - first:
+      213: 5871389267386736806
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_41
+  - first:
+      213: -6996892792034040355
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_42
+  - first:
+      213: 7593355801737264550
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_43
+  - first:
+      213: 8738072332758112487
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_44
+  - first:
+      213: -8226916557831383719
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_45
+  - first:
+      213: -3728729223263604769
+    second: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 169
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f49d62e14b09ce0800000000000000
+      internalID: -1400421442518429814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 170
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8189a5028a3fae0800000000000000
+      internalID: -1516683792581388040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 171
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b329ef7c29ab870800000000000000
+      internalID: 8699427017886677879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 171
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82ebdaaf917af760800000000000000
+      internalID: 7492425860664517258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 165
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12d1bdee44949470800000000000000
+      internalID: 8400502271669031453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 172
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bc40d0a686d30a0800000000000000
+      internalID: -6900244249367491798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 168
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08a0c3ab286cc0d0800000000000000
+      internalID: -3401229081931372529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_7
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 171
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5b41e9d0c5a9710800000000000000
+      internalID: 1700773022842271183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_8
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 171
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d8512d5508437f0800000000000000
+      internalID: -633740541467194061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 171
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ef981258fd278a0800000000000000
+      internalID: -6308734365106307426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_10
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 171
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6ee900d4046e5a0800000000000000
+      internalID: -6492431113340918107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_11
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 171
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029986d1fa5560c00800000000000000
+      internalID: 866474188916431136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_12
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 167
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048bac5b2a998a020800000000000000
+      internalID: 2353299729414797376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_13
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 172
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba153454fbdc1560800000000000000
+      internalID: 7285940139609889459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 115
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695acee565d17bca0800000000000000
+      internalID: -6001295721650936426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_15
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 115
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fefa23ef8be1d40800000000000000
+      internalID: 5557082392133365648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 115
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c23088084751730800000000000000
+      internalID: 3969206741983505439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 115
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca57bd1396939b410800000000000000
+      internalID: 1493287875420845484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_18
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 115
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd70172d11ff5e6f0800000000000000
+      internalID: -655837718702389285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_19
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 115
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113b82e7930f36b30800000000000000
+      internalID: 4279528200652501777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 114
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6096a72fc57f6700800000000000000
+      internalID: 535776413264285806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_21
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 115
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be263d40b32cb680800000000000000
+      internalID: -8738069936888992076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 111
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0cef44314b42cc0800000000000000
+      internalID: -3736663795955744594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_23
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 112
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2cb707b05b48f50800000000000000
+      internalID: 6882825191265387234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_24
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 113
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a754693cc7ecec7f0800000000000000
+      internalID: -590307465886284422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_25
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 112
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd18c453f8bf86bf0800000000000000
+      internalID: -330737980118629923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_26
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 110
+        width: 57
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b669e12b97e7f90800000000000000
+      internalID: -6953986968689153133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 66
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac9ebe9ab6b31c00800000000000000
+      internalID: 870240065656102056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 66
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a71dcd59f6777e0800000000000000
+      internalID: -1767821639274104237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_29
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 66
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afdedea91315d440800000000000000
+      internalID: 4959891565647421344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_30
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 86
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f896190ee816450800000000000000
+      internalID: 6080298067090313111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_31
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 86
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265eab87e5aa02960800000000000000
+      internalID: 7575241895966336354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_32
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 86
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b371c01a5bb2fd50800000000000000
+      internalID: 6769679185393841079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_33
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 86
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9b489b8734402b0800000000000000
+      internalID: -5619292249263916606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_34
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 64
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e3e04751430fa50800000000000000
+      internalID: 6552794724570119710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_35
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 64
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0480eaa0f2ac2c600800000000000000
+      internalID: 487174013100886080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 11
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42456b91fa40b840800000000000000
+      internalID: 5237768768186565198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_37
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 11
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dc40ce6f58496a0800000000000000
+      internalID: -6443377871292150512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_38
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 11
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc70aac64441ff660800000000000000
+      internalID: 7421672995043280844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 11
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af2bd046ff36d160800000000000000
+      internalID: 7049892593577701282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7463a3661ab672b10800000000000000
+      internalID: 1956650904064767559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_41
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0a0a44e6d5b7150800000000000000
+      internalID: 5871389267386736806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_42
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5e157a31b06ee90800000000000000
+      internalID: -6996892792034040355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad73bfced4016960800000000000000
+      internalID: 7593355801737264550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_44
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e857b78d7ed34970800000000000000
+      internalID: 8738072332758112487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_45
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9555ead8afe14dd80800000000000000
+      internalID: -8226916557831383719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_character_sprite_sheet_template_by_kooltimyt_delu7fg-fullview_46
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf21cfe684e04cc0800000000000000
+      internalID: -3728729223263604769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
